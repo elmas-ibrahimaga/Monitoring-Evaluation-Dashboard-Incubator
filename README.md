@@ -18,10 +18,25 @@ This project demonstrates a monitoring and evaluation system designed for an inc
 - `assets/`: Screenshots of the dashboard
 - `README.md`: Project overview and description
 
-## 🔧 Tools Used
-- Google Sheets
-- Charts and conditional formatting
-- Manual data entry and validation
+
+## 🛠 Tools Used
+
+- **Google Sheets**: primary tool for data tracking and visualization
+- **Built-in charts & conditional formatting**: used for dashboards
+- **Manual data validation**: attendance, engagement, comments, and assignments
+
+## 🚀 Use Cases
+
+- Internal monitoring of incubator sessions
+- Team formation and group restructuring
+- Evaluating participant engagement levels
+- Generating reports for each phase and session
 
 ## 📌 Notes
-This dataset is anonymized and structured for demonstration purposes.
+
+This project is based on real field experience and work. All data has been modified or anonymized for sharing purposes. Screenshots and logic are reflective of the original dashboard design used in the 2024 and 2025 cycle.
+
+---
+
+Feel free to use or adapt this system in your own incubation or training programs.
+
