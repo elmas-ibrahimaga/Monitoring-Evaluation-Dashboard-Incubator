@@ -2,6 +2,9 @@
 
 This project demonstrates a monitoring and evaluation system designed for an incubator and acceleration program. It tracks participant attendance, engagement, and assignment completion across multiple program phases.
 
+🔗 **Live Dashboard (View Only):**  
+[Open in Google Sheets](https://docs.google.com/spreadsheets/d/19i8LeRuN3D0MkgRJymgcsFtVChaWNvpwXxFmurXaOpI/edit?usp=sharing)
+
 ## 📊 Key Features
 - 📅 Tracks participation of **30+ individuals** across multiple workshops and sessions
 - 🌍 Participants are from **diverse countries and regions**
